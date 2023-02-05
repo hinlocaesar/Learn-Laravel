@@ -1,5 +1,7 @@
 <?php
 
+//Answers for this assignment
+//Answers for this assignment
 // Connect to the MySQL database.
 $dsn = "mysql:host=localhost;port=3306;dbname=myapp;user=root;charset=utf8mb4";
 
